@@ -1,0 +1,11 @@
+C:\Users\David\source\repos\Activity6\Activity6\bin\Debug\Activity6.exe.config
+C:\Users\David\source\repos\Activity6\Activity6\bin\Debug\Activity6.exe
+C:\Users\David\source\repos\Activity6\Activity6\bin\Debug\Activity6.pdb
+C:\Users\David\source\repos\Activity6\Activity6\obj\Debug\Activity6.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\Activity6\Activity6\obj\Debug\Activity6.csproj.SuggestedBindingRedirects.cache
+C:\Users\David\source\repos\Activity6\Activity6\obj\Debug\Activity6.activity6PoundsToOuncesConversion.resources
+C:\Users\David\source\repos\Activity6\Activity6\obj\Debug\Activity6.Properties.Resources.resources
+C:\Users\David\source\repos\Activity6\Activity6\obj\Debug\Activity6.csproj.GenerateResource.cache
+C:\Users\David\source\repos\Activity6\Activity6\obj\Debug\Activity6.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Activity6\Activity6\obj\Debug\Activity6.exe
+C:\Users\David\source\repos\Activity6\Activity6\obj\Debug\Activity6.pdb
